@@ -1,6 +1,6 @@
 # hexo-autopush
 
-![usage](https://ibb.co/bdwJsd4)
+![usage](https://i.ibb.co/6s9BHsK/2019-03-20-2-55-11.png)
 
 THIS IS HELP YOUR HEXO DIFFICULT USAGE.
 
