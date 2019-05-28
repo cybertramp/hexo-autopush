@@ -19,8 +19,8 @@ rm -rf YOUR_GITHUB_ID.github.io/*
 cp -rf public/* YOUR_GITHUB_ID.github.io
 
 echo "|+ RUN 4. git process.."
-git -C YOUR_GITHUB_ID.github.io add .
-git -C YOUR_GITHUB_ID.github.io commit -m "commit!"
-git -C YOUR_GITHUB_ID.github.io push origin master
+git -C public YOUR_GITHUB_ID.github.io add .
+git -C public YOUR_GITHUB_ID.github.io commit -m "commit!"
+git -C public YOUR_GITHUB_ID.github.io push origin master
 
 echo "|+ Complete!"
